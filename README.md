@@ -6,55 +6,6 @@
 
 ## 🧩 About Me
 
-26년 경력의 실무형 교육자·개발자·기획자입니다.  
-AI 기반 직업훈련, 생성형 AI, Whisper 챗봇, 데이터 분석, ISO 인증 시스템 등  
-다양한 프로젝트를 기획·운영하고 있습니다.
-
-- 한국직업능력개발센터 센터장  
-- 한신대학교 AI·SW 겸임교수  
-- 고용노동부·산업통상자원부 장관상 수상  
-- 훈련교사 자격 16개 분야 + ISO 인증심사원
-
----
-
-## 📌 주요 프로젝트
-
-- **HRDTMS 시스템**: 비대면 학습관리 플랫폼 설계·구축  
-- **Whisper + GPT 챗봇**: 음성·텍스트 통합 AI 상담 비서  
-- **AHP 기반 역량 평가도구**: 직업훈련 분석 모델 연구
-
----
-
-## 🛠️ Tech Stack
-
-| 언어 | 프레임워크/라이브러리 | 데이터·시각화 | 기타 |
-|------|---------------------|---------------|------|
-| Python | PyTorch, Streamlit, LangChain | Pandas, Matplotlib | Git/GitHub |
-| Java | Whisper, HuggingFace | PowerBI | Notion, Canva |
-| R |  |  |  |
-
----
-
-## 🔗 Links
-
-- **Notion 포트폴리오**: <https://www.notion.so/aebon/>  
-- **Email**: aebon@kyonggi.ac.kr  
-
----
-
-> © 2024 Aebon Lee
-
-
-# Create a README.md for the GitHub main page that reflects the user's portfolio and expertise
-readme_md = """
-# 👩‍💻 Aebon Lee | AI & Education Specialist
-
-**"기술과 교육을 연결하고, 실천으로 혁신을 만드는 교육 설계자"**
-
----
-
-## 🧩 About Me
-
 안녕하세요! 저는 **26년 경력의 실무형 교육자/개발자/기획자**로  
 직업훈련, 생성형 AI, Whisper 기반 챗봇, 데이터 분석, ISO 인증 시스템 등  
 다양한 프로젝트를 기획·운영해왔습니다.
@@ -70,20 +21,23 @@ readme_md = """
 
 ### [HRDTMS 시스템 구축](#)
 - 교육기관용 학습관리시스템 및 비대면 교육지원 기능
+- 비대면 학습관리 플랫폼 설계·구축  
 
 ### [Whisper + GPT 기반 음성비서 챗봇](#)
 - Streamlit 기반 인터페이스 + TTS/STT 통합 파이프라인
+- 음성·텍스트 통합 AI 상담 비서 개발발
 
 ### [AHP 기반 직업훈련 역량 평가도구 설계](#)
 - 정책연구 기반 프레임 구축 + 논문화 진행
+- 직업교육과 직업훈련 직종별 분석 모델 연구
 
 > 각 프로젝트는 레포지토리 또는 Notion에서 확인 가능합니다.
 
 ---
 
-## 🛠️ 기술 스택
+## 🛠️ Tech Stack
 
-- **언어**: Python, Java, R, HTML/CSS/JS  
+- **언어**: Python, PyTorch,  Java, R, HTML/CSS/JS  
 - **프레임워크/도구**: Streamlit, Whisper, LangChain, KoGPT2, HuggingFace  
 - **데이터분석**: Pandas, Matplotlib, Jamovi, PowerBI  
 - **버전관리**: Git, GitHub  
@@ -99,8 +53,10 @@ readme_md = """
 
 ---
 
-## 🔗 외부 링크
+## 🔗 Links
 
+- **Notion 포트폴리오**: <https://www.notion.so/aebon/>  
+- **Email**: aebon@kyonggi.ac.kr
 - [Notion 포트폴리오](https://www.notion.so/aebon/Aebon-s-Information-Career-7b97e044c1d7432ab8333af05e0ac968)
 - [LinkedIn 프로필](#)
 - [강의자료 유튜브(예정)](#)
