@@ -1,8 +1,3 @@
-# aebon_info
-aebon information
-
-
-readme_content = """
 # 👩‍💻 Aebon Lee | AI & Education Specialist
 
 **"기술과 교육을 연결하고, 실천으로 혁신을 만드는 교육 설계자"**
@@ -48,10 +43,3 @@ AI 기반 직업훈련, 생성형 AI, Whisper 챗봇, 데이터 분석, ISO 인�
 ---
 
 > © 2024 Aebon Lee
-"""
-
-file_path = "/mnt/data/README_aebonlee.md"
-with open(file_path, "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-file_path
